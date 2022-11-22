@@ -1,6 +1,6 @@
 # handsome world
 
-![Handsome World Logo](img/logo.png)
+![Handsome World Logo](https://raw.githubusercontent.com/handsomeworld/.github/main/profile/img/logo.png)
 
 ## About
 
@@ -10,4 +10,4 @@ to spread handsomeness throughout the gaming community by
 creating merchandise and content.
 
 ### [Our Store](http://handsomeworld.org/)
-![Handsome World Shirt](img/handsome-shirt-crop.gif)
+![Handsome World Shirt](https://raw.githubusercontent.com/handsomeworld/.github/main/profile/img/handsome-shirt-crop.gif) 
